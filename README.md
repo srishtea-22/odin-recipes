@@ -1,3 +1,3 @@
 # odin-recipes
-first html project/
+first project/
 a website about recipes with links to them
